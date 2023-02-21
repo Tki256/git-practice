@@ -1,4 +1,4 @@
-#変更の練習 v.1.2
+#変更の練習 v1.3
 
 def perfectNumberList(n):
     res = ""
